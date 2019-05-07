@@ -13,5 +13,10 @@ namespace MobileEquipmentCircleCheck
         {
 
         }
+
+        protected void Unnamed7_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
