@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MobileEquipmentCircleCheck.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <style type="text/css">
+        .auto-style1 {
+            width: 152px;
+            height: 150px;
+        }
+        .header{
+            border-bottom: solid 1.5px black;
+            padding: 10px 10px 10px 10px;
+            margin-bottom: 15px;
+        }
+       
+    </style>
+    <style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container header clearfix">
+                    <div class="row align-content-center">
+                        <img src="Images/logo.png" class="auto-style1" style="margin-left: 40px;">
+                        <strong style="font-size: 36pt ; margin-top: 40px; margin-left: 40px;">MOBILE EQUIPMENT CIRCLE CHECK</strong>
+                    </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/popper-utils.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="mdb/js/mdb.min.js"></script>
+</body>
+</html>

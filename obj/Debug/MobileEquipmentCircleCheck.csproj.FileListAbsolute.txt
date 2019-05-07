@@ -1,0 +1,7 @@
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\bin\MobileEquipmentCircleCheck.dll.config
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\bin\MobileEquipmentCircleCheck.dll
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\bin\MobileEquipmentCircleCheck.pdb
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\obj\Debug\MobileEquipmentCircleCheck.csprojAssemblyReference.cache
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\obj\Debug\MobileEquipmentCircleCheck.csproj.CoreCompileInputs.cache
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\obj\Debug\MobileEquipmentCircleCheck.dll
+C:\Users\ngoc.CLOWDARLING\source\repos\MobileEquipmentCircleCheck\obj\Debug\MobileEquipmentCircleCheck.pdb
